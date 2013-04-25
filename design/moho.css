@@ -1,0 +1,34 @@
+.Banner ul li {
+display: block!important;
+margin: 0;
+padding: 1px;
+text-align: center!important;
+float: left!important;
+}
+#Content h1{
+text-align:center;
+}
+#Content{
+width:98%!important;
+}
+#Content h9 a {
+color: inherit;
+font-size: 18px;
+font-weight: 700;
+height: 24px;
+margin: 0 auto;
+padding: 10px 20px;
+border-radius:4px;
+}
+#Body{
+background:transparent!important;
+width:100%;
+}
+table#Log.AltColumns, div#Content, table#Users.AltColumns, table tbody th, table tbody td, table.Label.AltRows {
+border: none!important;
+}
+div.Banner ul li a.ProfileLink{
+text-align:center;
+margin:0 auto;
+
+}
